@@ -11,7 +11,7 @@ This project analyzes flight delays using Power BI.
 - Certain airports have higher delays
 
 HOW TO VIEW DATA
-- Go to FLIGHTANALYSIS file
+- Go to FLIGHTANALYSIS.pbix file
 - CLick on View RAW
 - This downloads PowerBI file to Open
   
