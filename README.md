@@ -10,6 +10,7 @@ This project analyzes flight delays using Power BI.
 - Distance impacts arrival delay
 - Certain airports have higher delays
 
+HOW TO VIEW DATA
 - Go to FLIGHTANALYSIS file
 - CLick on View RAW
 - This downloads PowerBI file to Open
