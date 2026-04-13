@@ -9,3 +9,8 @@ This project analyzes flight delays using Power BI.
 - Most delays happen due to late aircraft
 - Distance impacts arrival delay
 - Certain airports have higher delays
+
+- Go to FLIGHTANALYSIS file
+- CLick on View RAW
+- This downloads PowerBI file to Open
+  
